@@ -32,7 +32,7 @@ body{
     font-size: 20px;
     background: #FF5959;
     padding: 10px 30px;
-    border-radius: 25px;
+    border-radius: 5px;
     transition: 0.3s;
 }
 .donation-area{
