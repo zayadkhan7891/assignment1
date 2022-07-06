@@ -21,6 +21,11 @@ body{
     margin: 0;
     font-size: 80px;
 }
+.text-section p{
+    width: 72%;
+    margin-left: 14%;
+    font-size: 20px;
+}
 .text-section a{
     color: white;
     text-decoration: none;
@@ -28,9 +33,4 @@ body{
     background: #FF5959;
     padding: 10px 30px;
     border-radius: 5px;
-}
-.text-section p{
-    width: 72%;
-    margin-left: 14%;
-    font-size: 20px;
 }
